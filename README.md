@@ -1,2 +1,2 @@
 # trasciende-content
-files, videos, material and more
+files, videos, material and more. FTP provitional server.
